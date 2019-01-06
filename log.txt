@@ -1,0 +1,6 @@
+Dependencies:
+-------------
+dep ensure -add github.com/joho/godotenv
+dep ensure -add github.com/go-xorm/xorm
+dep ensure -add github.com/gorilla/mux
+dep ensure -add github.com/jinzhu/gorm
